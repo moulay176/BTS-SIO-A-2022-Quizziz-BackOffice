@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e46965c4-15d5-4085-ae49-40df1e0d9c93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.platform.app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.platform.app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.platform/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.platform/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice" beforeDir="false" afterPath="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +64,7 @@
       <workItem from="1650892336123" duration="81000" />
       <workItem from="1650892642592" duration="369000" />
       <workItem from="1650893015229" duration="3140000" />
-      <workItem from="1654069338696" duration="5903000" />
+      <workItem from="1654069338696" duration="13332000" />
     </task>
     <servers />
   </component>
