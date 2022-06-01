@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e46965c4-15d5-4085-ae49-40df1e0d9c93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/db.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/composer" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="28I7dhqGvrX38H9m2kRsJYz6D4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46965c4-15d5-4085-ae49-40df1e0d9c93" name="Changes" comment="" />
+      <created>1650892335022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650892335022</updated>
+      <workItem from="1650892336123" duration="81000" />
+      <workItem from="1650892642592" duration="369000" />
+      <workItem from="1650893015229" duration="3140000" />
+      <workItem from="1654069338696" duration="5903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

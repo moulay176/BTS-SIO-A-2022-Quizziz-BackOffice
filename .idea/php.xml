@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/composer" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+</project>

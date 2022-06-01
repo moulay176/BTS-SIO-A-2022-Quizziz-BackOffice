@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/BTS-SIO-A-2022-Quizziz-BackOffice/vendor/symfony/polyfill-ctype" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
